@@ -1,0 +1,42 @@
+table {
+  width: 100%;
+  /* border-collapse: collapse; */
+  margin-top: 20px;
+}
+
+.table {
+  margin-left: -90px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+
+.show-detail {
+  margin-left: 50px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.no-data {
+  text-align: center;
+  margin-top: 20px;
+  font-size: large;
+}
